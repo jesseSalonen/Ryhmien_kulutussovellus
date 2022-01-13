@@ -1,0 +1,6 @@
+package.json sisältää riippuvuudet -> npm install backend-kansiossa
+mongoDB asennettuna -> https://www.youtube.com/watch?v=wcx3f0eUiAw
+
+Backendia voi ajaa lokaalisti komennolla 'npm run devStart' backend-kansiossa
+
+
